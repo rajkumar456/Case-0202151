@@ -1,5 +1,6 @@
 # Databricks notebook source
 # MAGIC %sh
+# MAGIC 
 # MAGIC ls -ltr
 
 # COMMAND ----------
@@ -10,8 +11,4 @@
 # COMMAND ----------
 
 # MAGIC %sh
-# MAGIC ls -la
-
-# COMMAND ----------
-
-
+# MAGIC pwd
