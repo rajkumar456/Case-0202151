@@ -29,7 +29,7 @@ displayHTML("""<font size="6" color="red" face="sans-serif">Bike Sharing Data An
 
 # COMMAND ----------
 
-# MAGIC %md Create a dashboard that displays a bikesharing dataset available as a Databricks hosted dataset.
+# MAGIC %md Create a dashboard that displays a bikesharing dataset available as a Databricks hosted dataset1.
 
 # COMMAND ----------
 
